@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Otomanopee+One&family=Qahiri&display=swap");
+
+.img-left {
+  float: left;
+  padding-top: 120px;
+}
+
+p {
+  padding-top: 50px;
+}
+
+.title {
+  color: blue;
+  font-family: "Otomanopee One", sans-serif;
+  font-size: 66px;
+  animation: 0.5s;
+}
+
+.fab {
+  text-decoration: none;
+  color: black;
+  font-size: 40px;
+  padding-right: 40px;
+  transition: 0.5s ease-in;
+}
+
+.fab:hover {
+  position: relative;
+  top: -7px;
+  padding-right: 140px;
+}
+
+.content {
+  display: flex;
+  flex: wrap;
+  justify-content: center;
+  align-items: center;
+  min-height: 35vh;
+  padding-right: 45px;
+}

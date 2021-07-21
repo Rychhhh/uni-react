@@ -1,0 +1,12 @@
+.container {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex: wrap;
+  height: 10vh;
+}
+
+a {
+  text-decoration: none;
+}

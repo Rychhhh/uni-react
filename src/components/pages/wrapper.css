@@ -1,0 +1,15 @@
+.content h1::after {
+  content: "Rayhan";
+  animation: textanim 10s linear infinite;
+}
+@keyframes textanim {
+  25% {
+    content: "A Programmer";
+  }
+  50% {
+    content: "A Desainer";
+  }
+  75% {
+    content: "A Developer";
+  }
+}
